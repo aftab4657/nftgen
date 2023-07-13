@@ -1,0 +1,65 @@
+[
+    {
+        "name": "AftabAnsari #1",
+        "rank": 1,
+        "score": 6.0006,
+        "score_distribution": {
+            "Layer 1": {
+                "item": "Ady 115 10",
+                "total_stock": 1,
+                "percentage": 33.33,
+                "score": 3.0003
+            },
+            "Layer 2": {
+                "item": "Gem 903 11",
+                "total_stock": 1,
+                "percentage": 33.33,
+                "score": 3.0003
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "AftabAnsari #2",
+        "rank": 2,
+        "score": 6.0006,
+        "score_distribution": {
+            "Layer 1": {
+                "item": "Ady 53 13",
+                "total_stock": 1,
+                "percentage": 33.33,
+                "score": 3.0003
+            },
+            "Layer 2": {
+                "item": "Gem 87 3",
+                "total_stock": 1,
+                "percentage": 33.33,
+                "score": 3.0003
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "AftabAnsari #3",
+        "rank": 3,
+        "score": 6.0006,
+        "score_distribution": {
+            "Layer 1": {
+                "item": "Ady 842 11",
+                "total_stock": 1,
+                "percentage": 33.33,
+                "score": 3.0003
+            },
+            "Layer 2": {
+                "item": "Gem 756 4",
+                "total_stock": 1,
+                "percentage": 33.33,
+                "score": 3.0003
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "name": "AftabAnsari #1",
+        "attributes_count": 2,
+        "items": [
+            {
+                "Layer 1": "Ady 115 10"
+            },
+            {
+                "Layer 2": "Gem 903 11"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "AftabAnsari #2",
+        "attributes_count": 2,
+        "items": [
+            {
+                "Layer 1": "Ady 53 13"
+            },
+            {
+                "Layer 2": "Gem 87 3"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "AftabAnsari #3",
+        "attributes_count": 2,
+        "items": [
+            {
+                "Layer 1": "Ady 842 11"
+            },
+            {
+                "Layer 2": "Gem 756 4"
+            }
+        ],
+        "folder": "public_mint_assets"
+    }
+]
