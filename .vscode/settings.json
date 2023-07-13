@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1b6950da-9adf-4a18-892e-df07440bc6db/resourceGroups/myresourcegroup/providers/Microsoft.Web/sites/nftgenerator",
+    "appService.deploySubpath": "."
+}

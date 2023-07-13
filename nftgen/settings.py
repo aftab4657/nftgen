@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-d_83is!u+c^_oap8*20i)71mt&6534mw3feb$_vy6+)tw9+267
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["nftgenerator.azurewebsites.net"]
+ALLOWED_HOSTS = ["*"]
 
 
 
