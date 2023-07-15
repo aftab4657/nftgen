@@ -61,4 +61,4 @@ jobs:
         with:
           app-name: 'nftgenerator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08CFDBC833354ACAA3A6ED9F1264D4BC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDDFC89814394761983967EB081E6A65 }}
