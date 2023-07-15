@@ -1,0 +1,210 @@
+[
+    {
+        "attribute": "Layer 1",
+        "items": [
+            {
+                "name": "Ady 115 10",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/0-Layer_1/10-ADY_115_10.png"
+            },
+            {
+                "name": "Ady 229 21",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/0-Layer_1/10-ADY_229_21.png"
+            },
+            {
+                "name": "Ady 769 8",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/0-Layer_1/10-ADY_769_8.png"
+            },
+            {
+                "name": "Ady 826 12",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/0-Layer_1/10-ADY_826_12.png"
+            },
+            {
+                "name": "Ady 839 16",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/0-Layer_1/10-ADY_839_16.png"
+            },
+            {
+                "name": "Ady 842 11",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/0-Layer_1/10-ADY_842_11.png"
+            },
+            {
+                "name": "Ady 9 9",
+                "stock": 1,
+                "total": 5,
+                "percentage": 20.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-Layer_1/10-ADY_9_9.png"
+            },
+            {
+                "name": "Ady 53 13",
+                "stock": 1,
+                "total": 5,
+                "percentage": 20.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-Layer_1/10-ADY_53_13.png"
+            },
+            {
+                "name": "Ady 308 1",
+                "stock": 1,
+                "total": 5,
+                "percentage": 20.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-Layer_1/10-ADY_308_1.png"
+            },
+            {
+                "name": "Ady 781 4",
+                "stock": 2,
+                "total": 5,
+                "percentage": 40.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-Layer_1/10-ADY_781_4.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Layer 2",
+        "items": [
+            {
+                "name": "Gem 87 3",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/1-Layer_2/8-Gem_87_3.png"
+            },
+            {
+                "name": "Gem 127 39",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/1-Layer_2/8-Gem_127_39.png"
+            },
+            {
+                "name": "Gem 261 12",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/1-Layer_2/8-Gem_261_12.png"
+            },
+            {
+                "name": "Gem 430 12",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/1-Layer_2/8-Gem_430_12.png"
+            },
+            {
+                "name": "Gem 556 6",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/1-Layer_2/8-Gem_556_6.png"
+            },
+            {
+                "name": "Gem 618 8",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/1-Layer_2/8-Gem_618_8.png"
+            },
+            {
+                "name": "Gem 903 11",
+                "stock": 0,
+                "total": 5,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/1-Layer_2/8-Gem_903_11.png"
+            },
+            {
+                "name": "Gem 206 8",
+                "stock": 1,
+                "total": 5,
+                "percentage": 20.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Layer_2/8-Gem_206_8.png"
+            },
+            {
+                "name": "Gem 756 4",
+                "stock": 1,
+                "total": 5,
+                "percentage": 20.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Layer_2/8-Gem_756_4.png"
+            },
+            {
+                "name": "Gem 924 6",
+                "stock": 1,
+                "total": 5,
+                "percentage": 20.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Layer_2/8-Gem_924_6.png"
+            },
+            {
+                "name": "Gem 946 7",
+                "stock": 1,
+                "total": 5,
+                "percentage": 20.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Layer_2/8-Gem_946_7.png"
+            },
+            {
+                "name": "Gem 951 5",
+                "stock": 1,
+                "total": 5,
+                "percentage": 20.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Layer_2/8-Gem_951_5.png"
+            }
+        ]
+    }
+]

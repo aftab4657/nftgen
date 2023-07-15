@@ -938,3 +938,7 @@ Bad Request: /favicon.ico
 Not Found: /auth/login
 Not Found: /auth/login
 Not Found: /auth/login
+Not Found: /favicon.ico
+Not Found: /1.php
+Not Found: /bundle.js
+Not Found: /files/

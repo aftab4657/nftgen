@@ -3,8 +3,6 @@ from . import views
 
 urlpatterns = [
     path('', views.layers, name='layers'),
-    path('hello/', views.hello_reader, name="hello"),
-
     # path('', views.generate_nfts_Layers, name='generate_nfts_layer'),
     path('generate-nfts/', views.generate_nfts, name='generate_nfts'),
     path('get_details/', views.get_task_status, name='get-task-status'),

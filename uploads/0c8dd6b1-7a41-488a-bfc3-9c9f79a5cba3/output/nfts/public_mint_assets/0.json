@@ -1,0 +1,37 @@
+{
+    "name": "aftab #1",
+    "symbol": "NA",
+    "description": "sdfklsj dsf ",
+    "seller_fee_basis_points": 200,
+    "image": "0.png",
+    "external_url": "NA",
+    "attributes": [
+        {
+            "trait_type": "Layer 1",
+            "value": "Ady 9 9"
+        },
+        {
+            "trait_type": "Layer 2",
+            "value": "Gem 951 5"
+        }
+    ],
+    "collection": {
+        "name": "NA",
+        "family": "NA"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "NA",
+                "share": 100
+            }
+        ]
+    }
+}

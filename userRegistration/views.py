@@ -40,13 +40,9 @@ import pymongo
 # print(f"Deleted {result.deleted_count} records from the collection.")
 
 # tracemalloc.start()
-import logging
-# Get an instance of a logger
-logger = logging.getLogger(__name__)
 
-def hello_reader(request):
-    logger.warning('Homepage was accessed at '+str(datetime.datetime.now())+' hours!')
-    return HttpResponse("<h1>Hello </h1>")
+
+
 def home(request):
     form = UploadFileForm()
     gennftForm = GenerateNFTsForm()
@@ -122,11 +118,11 @@ def upload_layers(request):
             where = "inserting 2"
             task_id = new_task_object.id
             where = "completed_success"
-            # logging.warning("An error occurred:")
+            
 
             return JsonResponse({'success': True, "input": f"{folderName}", "output": f"{folderName}/output", "task_id": task_id})
     except Exception as e:
-        logging.warning("An error occurred:", str(e))
+      
         return JsonResponse({'success': True, "input": f"EOOOOORRRRR", "output": f"{BASE_DIR}", "task_id": str(e) + "----" + str(where), "exception": str(e)})
 
 @csrf_exempt

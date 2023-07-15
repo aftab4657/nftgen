@@ -1,0 +1,107 @@
+[
+    {
+        "name": "aftab #1",
+        "rank": 1,
+        "score": 10.0,
+        "score_distribution": {
+            "Layer 1": {
+                "item": "Ady 9 9",
+                "total_stock": 1,
+                "percentage": 20.0,
+                "score": 5.0
+            },
+            "Layer 2": {
+                "item": "Gem 951 5",
+                "total_stock": 1,
+                "percentage": 20.0,
+                "score": 5.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "aftab #4",
+        "rank": 2,
+        "score": 10.0,
+        "score_distribution": {
+            "Layer 1": {
+                "item": "Ady 53 13",
+                "total_stock": 1,
+                "percentage": 20.0,
+                "score": 5.0
+            },
+            "Layer 2": {
+                "item": "Gem 924 6",
+                "total_stock": 1,
+                "percentage": 20.0,
+                "score": 5.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "aftab #5",
+        "rank": 3,
+        "score": 10.0,
+        "score_distribution": {
+            "Layer 1": {
+                "item": "Ady 308 1",
+                "total_stock": 1,
+                "percentage": 20.0,
+                "score": 5.0
+            },
+            "Layer 2": {
+                "item": "Gem 946 7",
+                "total_stock": 1,
+                "percentage": 20.0,
+                "score": 5.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "aftab #2",
+        "rank": 4,
+        "score": 7.5,
+        "score_distribution": {
+            "Layer 1": {
+                "item": "Ady 781 4",
+                "total_stock": 2,
+                "percentage": 40.0,
+                "score": 2.5
+            },
+            "Layer 2": {
+                "item": "Gem 756 4",
+                "total_stock": 1,
+                "percentage": 20.0,
+                "score": 5.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "aftab #3",
+        "rank": 5,
+        "score": 7.5,
+        "score_distribution": {
+            "Layer 1": {
+                "item": "Ady 781 4",
+                "total_stock": 2,
+                "percentage": 40.0,
+                "score": 2.5
+            },
+            "Layer 2": {
+                "item": "Gem 206 8",
+                "total_stock": 1,
+                "percentage": 20.0,
+                "score": 5.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    }
+]

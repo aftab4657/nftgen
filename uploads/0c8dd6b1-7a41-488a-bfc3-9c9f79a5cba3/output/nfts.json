@@ -1,0 +1,67 @@
+[
+    {
+        "name": "aftab #1",
+        "attributes_count": 2,
+        "items": [
+            {
+                "Layer 1": "Ady 9 9"
+            },
+            {
+                "Layer 2": "Gem 951 5"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "aftab #2",
+        "attributes_count": 2,
+        "items": [
+            {
+                "Layer 1": "Ady 781 4"
+            },
+            {
+                "Layer 2": "Gem 756 4"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "aftab #3",
+        "attributes_count": 2,
+        "items": [
+            {
+                "Layer 1": "Ady 781 4"
+            },
+            {
+                "Layer 2": "Gem 206 8"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "aftab #4",
+        "attributes_count": 2,
+        "items": [
+            {
+                "Layer 1": "Ady 53 13"
+            },
+            {
+                "Layer 2": "Gem 924 6"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "aftab #5",
+        "attributes_count": 2,
+        "items": [
+            {
+                "Layer 1": "Ady 308 1"
+            },
+            {
+                "Layer 2": "Gem 946 7"
+            }
+        ],
+        "folder": "public_mint_assets"
+    }
+]
