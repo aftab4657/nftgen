@@ -22,11 +22,10 @@ jobs:
         with:
           python-version: '3.10'
 
-      # - name: Create and start virtual environment
-      #   run: |
-      #     python -m venv venv
-      #     source venv/bin/activate
-      #     source venv/Scripts/activate 
+      - name: Create and start virtual environment
+        run: |
+          python -m venv venv
+          source venv/bin/activate
       
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -61,4 +60,4 @@ jobs:
         with:
           app-name: 'nftgenerator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDDFC89814394761983967EB081E6A65 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_284588644BB64838BA97F021BEBAB6F4 }}
